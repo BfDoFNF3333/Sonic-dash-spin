@@ -201,7 +201,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				996,
+				227,
 				169
 			],
 			"anim": "portal",
@@ -211,7 +211,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BoyFriend_Assets_sonic",
+	"image": "characters/BoyFriend_Assets_sonics",
 	"position": [
 		0,
 		350
